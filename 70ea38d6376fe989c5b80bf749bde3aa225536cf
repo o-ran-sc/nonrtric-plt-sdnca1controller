@@ -1,0 +1,11 @@
+Verified+1: ORAN Jobbuilder <releng+oran-jobbuilder@linuxfoundation.org>
+Code-Review+1: Sonia Sangari <sonia.sangari@est.tech>
+Code-Review+1: Kevin Timoney <kevin.timoney@est.tech>
+Code-Review+1: Bj�rn Magnusson <bjorn.magnusson@est.tech>
+Code-Review+1: Aravindhan Ayyanathan <aravindhan.a@est.tech>
+Code-Review+2: John  Keeney <john.keeney@est.tech>
+Submitted-by: John  Keeney <john.keeney@est.tech>
+Submitted-at: Mon, 22 Aug 2022 15:37:11 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/nonrtric/plt/sdnca1controller/+/8890
+Project: nonrtric/plt/sdnca1controller
+Branch: refs/heads/master
